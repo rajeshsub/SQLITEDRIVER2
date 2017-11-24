@@ -25,21 +25,6 @@
 # IN THIS CLAUSE, CSIRO INCLUDES ANY THIRD PARTY AUTHOR OR OWNER OF ANY PART OF
 # THE SOFTWARE OR MATERIAL DISTRIBUTED WITH IT.  CSIRO MAY ENFORCE ANY RIGHTS
 # ON BEHALF OF THE RELEVANT THIRD PARTY.
-# Third Party Components
-# The following third party components are distributed with the Software.  You
-# agree to comply with the license terms for these components as part of
-# accessing the Software.  Other third party software may also be identified in
-# separate files distributed with the Software.
-# SQLite https://www.sqlite.org/index.html
-# Contact: https://www.sqlite.org/support.html
-# All of the code and documentation in SQLite has been dedicated to the public
-# domain by the authors. All code authors, and representatives of the companies
-# they work for, have signed affidavits dedicating their contributions to the
-# public domain and originals of those signed affidavits are stored in a firesafe
-# at the main offices of Hwaci. Anyone is free to copy, modify, publish, use,
-# compile, sell, or distribute the original SQLite code, either in source code
-# form or as a compiled binary, for any purpose, commercial or non-commercial,
-# and by any means.
 #===================================================================================
 
 
